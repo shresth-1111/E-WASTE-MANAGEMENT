@@ -174,3 +174,7 @@ Feel free to fork, explore, and improve. For full functionality, set up your own
 This project is for educational and hackathon use.
 
 If you have questions or need setup help, feel free to ask 🚀
+
+
+
+Contribution by Aryan
