@@ -112,8 +112,6 @@ Backend will be available at:
 
 http://127.0.0.1:8000
 
-API Docs: http://127.0.0.1:8000/docs
-
 ☁️ Cloud / Firebase Features (Optional)
 
 Some features (database, admin analytics, authentication) require Google Cloud / Firebase.
