@@ -1,0 +1,4 @@
+0 Smartphone
+1 Laptop
+2 Cables
+3 Not Waste
